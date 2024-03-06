@@ -45,8 +45,8 @@ The project structure is as follows:
 ## Dependencies
 This project uses the following dependencies:
 
-react: JavaScript library for building user interfaces.
-react-dom: Provides DOM-specific methods for React.
-react-scripts: Provides scripts and configuration used by Create React App.
+* react: JavaScript library for building user interfaces.
+* react-dom: Provides DOM-specific methods for React.
+* react-scripts: Provides scripts and configuration used by Create React App.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
