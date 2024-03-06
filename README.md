@@ -13,21 +13,16 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 `Copy code
 git clone https://github.com/MausamGaikwad/React-Color-Picker.git`
-Navigate to the project directory:
+2. Navigate to the project directory:
+`Copy code
+cd color-picker-practice`
+3. Install dependencies:
+`Copy code
+npm install`
 
-bash
-Copy code
-cd color-picker-practice
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
+4. Start the development server:
+`Copy code
+npm start`
 ## Usage
 Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the application. You can then input a color code into the text field provided, and the color display box will update accordingly.
 
