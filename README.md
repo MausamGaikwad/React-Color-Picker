@@ -10,11 +10,9 @@ This project is a simple color picker application built using React. Users can i
 ## Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone <repository-url>
+1. Clone the repository:
+`Copy code
+git clone https://github.com/MausamGaikwad/React-Color-Picker.git`
 Navigate to the project directory:
 
 bash
