@@ -2,11 +2,11 @@
 This project is a simple color picker application built using React. Users can input a color code, and the application will display a color box with the specified color.
 
 ## Table of Contents
-Installation
-Usage
-Project Structure
-Dependencies
-License
+* Installation
+* Usage
+* Project Structure
+* Dependencies
+* License
 ## Installation
 To run this project locally, follow these steps:
 
