@@ -36,12 +36,12 @@ Once the development server is running, open your web browser and navigate to ht
 ## Project Structure
 The project structure is as follows:
 
-* src/: Contains the source code for the application.
-  * components/: Contains React components used in the application.
-    * App.js: Main component that renders the color picker interface.
-  * index.js: Entry point for the application.
-* public/: Contains static assets and the HTML file for the application.
-  * index.html: HTML template for the application.
+* `src/`: Contains the source code for the application.
+  * `components/`: Contains React components used in the application.
+    * `App.js`: Main component that renders the color picker interface.
+  * `index.js`: Entry point for the application.
+* `public/`: Contains static assets and the HTML file for the application.
+  * `index.html`: HTML template for the application.
 ## Dependencies
 This project uses the following dependencies:
 
