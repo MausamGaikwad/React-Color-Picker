@@ -1,4 +1,4 @@
-# Color Picker Practice
+### Color Picker Practice
 This project is a simple color picker application built using React. Users can input a color code, and the application will display a color box with the specified color.
 
 ## Table of Contents
