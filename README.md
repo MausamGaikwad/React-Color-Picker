@@ -42,4 +42,4 @@ This project uses the following dependencies:
 * `react-dom`: Provides DOM-specific methods for React.
 * `react-scripts`: Provides scripts and configuration used by Create React App.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
