@@ -31,7 +31,7 @@ bash
 Copy code
 npm start
 ## Usage
-Once the development server is running, open your web browser and navigate to http://localhost:3000 to view the application. You can then input a color code into the text field provided, and the color display box will update accordingly.
+Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the application. You can then input a color code into the text field provided, and the color display box will update accordingly.
 
 ## Project Structure
 The project structure is as follows:
